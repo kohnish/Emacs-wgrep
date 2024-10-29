@@ -7,7 +7,7 @@
 ;; Keywords: grep edit extensions
 ;; URL: http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep.el
 ;; Emacs: GNU Emacs 25 or later
-;; Package-Requires: ((emacs "25.1"))
+
 ;; Version: 3.0.0
 
 ;; This program is free software; you can redistribute it and/or

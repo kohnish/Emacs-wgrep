@@ -4,7 +4,7 @@
 
 ;; Author: Masahiro Hayashi <mhayashi1120@gmail.com>, Bailey Ling <bling@live.ca>
 ;; Keywords: grep edit extensions
-;; Package-Requires: ((emacs "25.1") (wgrep "3.0.0"))
+
 ;; URL: http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep-pt.el
 ;; Emacs: GNU Emacs 25 or later
 ;; Version: 1.0.0
